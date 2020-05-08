@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507864824 source:c:\users\mgala\desktop\clang lab02\main.c
+	<stdio.h>
+	<stdlib.h>
+
